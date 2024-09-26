@@ -7,4 +7,4 @@ I am a Software Engineering student at Concordia University, currently in my thi
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,js,html,CSS,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,git)](https://skillicons.dev)
