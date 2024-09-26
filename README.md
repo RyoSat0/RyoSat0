@@ -7,4 +7,4 @@ I am a Software Engineering student at Concordia University, currently in my thi
 
 ### Languages and Tools:
 
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
+<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
