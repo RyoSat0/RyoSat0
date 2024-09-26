@@ -7,4 +7,4 @@ I am a Software Engineering student at Concordia University, currently in my thi
 
 ### Languages and Tools:
 
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
