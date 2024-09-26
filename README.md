@@ -7,4 +7,4 @@ I am a Software Engineering student at Concordia University, currently in my thi
 
 ### Languages and Tools:
 
-<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
