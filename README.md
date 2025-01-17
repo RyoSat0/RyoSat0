@@ -1,5 +1,5 @@
 ### Hi there, I'm Ryo 👋 
-I'm a third-year Software Engineering student at Concordia University with a passion for neural networks and machine learning.
+I'm a third-year Software Engineering student at Concordia University with a passion for neural networks and machine learning.  
 Currently deepening my knowledge through Michael Nielsen's online book, I’ve built a neural network from scratch. Check out the repository!
 I’m also working on a project called Mosaicify. For safety reasons, the repository is private at the moment, but I may make it public in the future. 
 Stay tuned! 🚀
